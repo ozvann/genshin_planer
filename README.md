@@ -19,6 +19,10 @@ Possible values are:
 
 * fishing_inazuma → obtained via Inazuma fishing system
 
+* fishing_sumeru → obtained via sumeru fishing system
+
+* fishing_fontaine → obtained via fontaine fishing system
+
 * story_quest → obtained during a story quest
 
 * narzissenkreuz_quest → obtained during the Narzissenkreuz questline
