@@ -1023,6 +1023,718 @@
             "main_stat": "DGT CRIT",
             "sources": ["Wish"],
             "rarity": 4
+        },
+        {
+            "id": 127,
+            "name": "Arc de chasse de Favonius",
+            "type": "Bow",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 128,
+            "name": "Dernière corde",
+            "type": "Bow",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 129,
+            "name": "Arc rituel",
+            "type": "Bow",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 130,
+            "name": "Arc royal",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 131,
+            "name": "Arc rouillé",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 132,
+            "name": "Lune paisible (prototype)",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 133,
+            "name": "Arc à poulies",
+            "type": "Bow",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 134,
+            "name": "Arc de guerre de Rochenoire",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 135,
+            "name": "Arc de chasse verdoyant",
+            "type": "Bow",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 136,
+            "name": "Traqueur des impasses",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 137,
+            "name": "Valse nocturne",
+            "type": "Bow",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 138,
+            "name": "Arc d'exorcisme",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 139,
+            "name": "Predator",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 140,
+            "name": "Lune de Mouun",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 141,
+            "name": "Le valet du roi",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 142,
+            "name": "Chalutier",
+            "type": "Bow",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Fishing (Sumeru)"],
+            "rarity": 4
+        },
+        {
+            "id": 143,
+            "name": "Perceur d'ibis",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 144,
+            "name": "Descendant du soleil flamboyant",
+            "type": "Bow",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 145,
+            "name": "Chant de quiétude",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 146,
+            "name": "Jauge de portée",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 147,
+            "name": "Nimbus-forgé",
+            "type": "Bow",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 148,
+            "name": "Brise-chaîne",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 149,
+            "name": "Plumard de fleurs",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id":150,
+            "name": "Crochet de capture",
+            "type": "Bow",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 151,
+            "name": "Arc pluvial du serpent arc-en-ciel",
+            "type": "Bow",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 152,
+            "name": "Épée du faucon",
+            "type": "Sword",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 153,
+            "name": "Lame de la Voûte d'Azur",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 154,
+            "name": "Tranche-sommets",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 155,
+            "name": "Coupeur de jade primordial",
+            "type": "Sword",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 156,
+            "name": "Serment de la liberté",
+            "type": "Sword",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 157,
+            "name": "Reflet de tranche-brume",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 158,
+            "name": "Lune ondulante de Futsu",
+            "type": "Sword",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 159,
+            "name": "Clé de Khaj-Nisut",
+            "type": "Sword",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 160,
+            "name": "Lumière d'incision foliaire",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 161,
+            "name": "Splendeur des eaux calmes",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 162,
+            "name": "Uraku Misugiri",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 163,
+            "name": "Absolution",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 164,
+            "name": "Chanson de patrouille de sommet",
+            "type": "Sword",
+            "main_stat": "DEF %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 165,
+            "name": "Éclazur",
+            "type": "Sword",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 166,
+            "name": "Athame Artis",
+            "type": "Sword",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 167,
+            "name": "Fierté de la Voûte d'Azur",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 168,
+            "name": "Mort-du-loup",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 169,
+            "name": "Lame brute",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 170,
+            "name": "Ode au chant du vent",
+            "type": "Claymore",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 171,
+            "name": "Brise-pierre de corne rouge",
+            "type": "Claymore",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 172,
+            "name": "Balise de la mer de roseaux",
+            "type": "Claymore",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 173,
+            "name": "Condamneur",
+            "type": "Claymore",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 174,
+            "name": "Croc du roi de la montagne",
+            "type": "Claymore",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 175,
+            "name": "Mille soleils brûlants",
+            "type": "Claymore",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 176,
+            "name": "Lance de jade ailée",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 177,
+            "name": "Berge de la Voûte d'Azur",
+            "type": "Polearm",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 178,
+            "name": "Perceur prismatique",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 179,
+            "name": "Bâton de Homa",
+            "type": "Polearm",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 180,
+            "name": "Lumière du faucheur",
+            "type": "Polearm",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 181,
+            "name": "Étouffeur de calamités",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 182,
+            "name": "Bâton des sables écarlates",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 183,
+            "name": "Semblance de la lune écarlate",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 184,
+            "name": "Élégie de Lumidouce",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 185,
+            "name": "Symphoniste des senteurs",
+            "type": "Polearm",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 186,
+            "name": "Halo fracturé",
+            "type": "Polearm",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 187,
+            "name": "Ruines sanglantes",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 188,
+            "name": "Atlas de la Voûte d'Azur",
+            "type": "Catalyst",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 189,
+            "name": "L'origine des Quatre Vents",
+            "type": "Catalyst",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 190,
+            "name": "Chaînes mortelles",
+            "type": "Catalyst",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 191,
+            "name": "Lueur de la lune éternelle",
+            "type": "Catalyst",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 192,
+            "name": "Vérité de Kagura",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 193,
+            "name": "Mille rêves flottants",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 194,
+            "name": "Mémoire de Tulaytullah",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 195,
+            "name": "Splendeur de l'azur",
+            "type": "Catalyst",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 196,
+            "name": "Supervision de trésorerie",
+            "type": "Catalyst",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 197,
+            "name": "Tome du flux éternel",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 198,
+            "name": "Écho de la grue",
+            "type": "Catalyst",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 199,
+            "name": "Instant surfant",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 200,
+            "name": "Veillée d'appel d'étoiles",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 201,
+            "name": "Matinée flânée sous le soleil",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 202,
+            "name": "Notions colorées",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 203,
+            "name": "Miroir du tisse-nuit",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 204,
+            "name": "Reliquaire de la vérité",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 205,
+            "name": "Ailes de la Voûte d'Azur",
+            "type": "Bow",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 206,
+            "name": "Arc d'Amos",
+            "type": "Bow",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 207,
+            "name": "Ultime soupir",
+            "type": "Bow",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 208,
+            "name": "Pulsation du tonnerre",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 209,
+            "name": "Étoile polaire",
+            "type": "Bow",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 210,
+            "name": "Simulacre d'eau",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 211,
+            "name": "La voie du chasseur",
+            "type": "Bow",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 212,
+            "name": "La première grande magie",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 213,
+            "name": "Corde de pluie blanche",
+            "type": "Bow",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 214,
+            "name": "Plumage cramoisi du vautour astral",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
+        },
+        {
+            "id": 215,
+            "name": "Les chroniques de l'aube",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 5
         }
     ]
 }
