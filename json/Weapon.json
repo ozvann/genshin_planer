@@ -1,0 +1,1028 @@
+{
+    "Weapon": [
+        {
+            "id": 0,
+            "name": "Épée émoussée",
+            "type": "Sword",
+            "main_stat": "N/A",
+            "sources": ["Starter Weapon", "Chest"],
+            "rarity": 1
+        },
+        {
+            "id": 1,
+            "name": "Épée d'entraînement",
+            "type": "Claymore",
+            "main_stat": "N/A",
+            "sources": ["Starter Weapon", "Chest"],
+            "rarity": 1
+        },
+        {
+            "id": 2,
+            "name": "Lance du débutant",
+            "type": "Polearm",
+            "main_stat": "N/A",
+            "sources": ["Starter Weapon", "Chest"],
+            "rarity": 1
+        },
+        {
+            "id": 3,
+            "name": "Notes de l'apprenti",
+            "type": "Catalyst",
+            "main_stat": "N/A",
+            "sources": ["Starter Weapon", "Chest"],
+            "rarity": 1
+        },
+        {
+            "id": 4,
+            "name": "Arc de chasse",
+            "type": "Bow",
+            "main_stat": "N/A",
+            "sources": ["Starter Weapon", "Chest"],
+            "rarity": 1
+        },
+        {
+            "id": 5,
+            "name": "Épée en argent",
+            "type": "Sword",
+            "main_stat": "N/A",
+            "sources": ["Boutique", "Chest"],
+            "rarity": 2
+        },
+        {
+            "id": 6,
+            "name": "Lame du mercenaire",
+            "type": "Claymore",
+            "main_stat": "N/A",
+            "sources": ["Boutique", "Chest"],
+            "rarity": 2
+        },
+        {
+            "id": 7,
+            "name": "Pointe de fer",
+            "type": "Polearm",
+            "main_stat": "N/A",
+            "sources": ["Boutique", "Chest"],
+            "rarity": 2
+        },
+        {
+            "id": 8,
+            "name": "Grimoire de poche",
+            "type": "Catalyst",
+            "main_stat": "N/A",
+            "sources": ["Boutique", "Chest"],
+            "rarity": 2
+        },
+        {
+            "id": 9,
+            "name": "Arc de chasse aguerrie",
+            "type": "Bow",
+            "main_stat": "N/A",
+            "sources": ["Boutique", "Chest"],
+            "rarity": 2
+        },
+        {
+            "id": 10,
+            "name": "Lame froide",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Wish", "Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 11,
+            "name": "Messager de l'aube",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish", "Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 12,
+            "name": "Épée du voyageur",
+            "type": "Sword",
+            "main_stat": "DEF %",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 13,
+            "name": "Couteau à filets",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 14,
+            "name": "Épée celeste",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 15,
+            "name": "Ombre ferreuse",
+            "type": "Claymore",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 16,
+            "name": "Épée sanglante",
+            "type": "Claymore",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 17,
+            "name": "Grande épée en fer blanc",
+            "type": "Claymore",
+            "main_stat": "DEF %",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 18,
+            "name": "Épée de la raison",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 19,
+            "name": "Grande épée celeste",
+            "type": "Claymore",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 20,
+            "name": "Pampille blanche",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 21,
+            "name": "Hallebarde",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 22,
+            "name": "Pampille noire",
+            "type": "Polearm",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 23,
+            "name": "Guide de magie",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 24,
+            "name": "Histoire des chasseurs de dragons",
+            "type": "Catalyst",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 25,
+            "name": "Conte d'un autre monde",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 26,
+            "name": "Orbe jadien",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 27,
+            "name": "Néphrite jumelle",
+            "type": "Catalyst",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 28,
+            "name": "Arc du corbeau",
+            "type": "Bow",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 29,
+            "name": "Serment de l'archer",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 30,
+            "name": "Arc Courbé",
+            "type": "Bow",
+            "main_stat": "PV %",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 31,
+            "name": "Lance-pierres",
+            "type": "Bow",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 3
+        },
+        {
+            "id": 32,
+            "name": "Messager",
+            "type": "Bow",
+            "main_stat": "DGT CRIT",
+            "sources": ["Chest"],
+            "rarity": 3
+        },
+        {
+            "id": 33,
+            "name": "Épée de Favonius",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 34,
+            "name": "Flûte",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 35,
+            "name": "Épée rituelle",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 36,
+            "name": "Épée longue royale",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 37,
+            "name": "Rugissement du lion",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 38,
+            "name": "Tailleur de pierre (prototype)",
+            "type": "Sword",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Rang d'aventurier lvl 10", "Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 39,
+            "name": "Piqûre de fer",
+            "type": "Sword",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 40,
+            "name": "Épée longue de Rochenoire",
+            "type": "Sword",
+            "main_stat": "DGT CRIT",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 41,
+            "name": "Épée noire",
+            "type": "Sword",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 42,
+            "name": "Épée de la descente",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 43,
+            "name": "Éclair des impasses",
+            "type": "Sword",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 44,
+            "name": "Lame kageuchi d'Amenoma",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 45,
+            "name": "Kagotsurube Isshin",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Quête d'Histoire"],
+            "rarity": 4
+        },
+        {
+            "id": 46,
+            "name": "Lame d'Aubier",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 47,
+            "name": "Clair de lune de Xiphos",
+            "type": "Sword",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 48,
+            "name": "Pluie florale",
+            "type": "Sword",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 49,
+            "name": "Croc de loup",
+            "type": "Sword",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 50,
+            "name": "Final des profondeurs",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 51,
+            "name": "Passeur du Fleuve cendré",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Fishing (Fontaine)"],
+            "rarity": 4
+        },
+        {
+            "id": 52,
+            "name": "L'assistant du docker",
+            "type": "Sword",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 53,
+            "name": "Lame du Narzissenkreuz",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Quête de Narzissenkreuz"],
+            "rarity": 4
+        },
+        {
+            "id": 54,
+            "name": "Flûte d'ezpitzal",
+            "type": "Sword",
+            "main_stat": "DEF %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 55,
+            "name": "Os robuste",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 56,
+            "name": "La calamité d'Eshu",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 57,
+            "name": "Appel de sérénité",
+            "type": "Sword",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 58,
+            "name": "Aube du tisse-lune",
+            "type": "Sword",
+            "main_stat": "ATK %",
+            "sources": ["Quête du Monde", "Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 59,
+            "name": "Espadon de Favonius",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 60,
+            "name": "Épée-horloge",
+            "type": "Claymore",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 61,
+            "name": "Espadon rituel",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 62,
+            "name": "Espadon royal",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 63,
+            "name": "Fluorescence",
+            "type": "Claymore",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 64,
+            "name": "Espadon (prototype)",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 65,
+            "name": "Ombre immacuée",
+            "type": "Claymore",
+            "main_stat": "DEF %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 66,
+            "name": "Espadon de Rochenoire",
+            "type": "Claymore",
+            "main_stat": "DGT CRIT",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 67,
+            "name": "Ossature du dragon",
+            "type": "Claymore",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 68,
+            "name": "Tombe-neige en argétoile",
+            "type": "Claymore",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 69,
+            "name": "Épée antique des Millelithes",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 70,
+            "name": "Espadon de Nagamasa",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 71,
+            "name": "Akuoumaru",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 72,
+            "name": "Apparat de la forêt",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 73,
+            "name": "Aigue-marine de Makhaira",
+            "type": "Claymore",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 74,
+            "name": "Fleur de mailles",
+            "type": "Claymore",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 75,
+            "name": "Bâton bavard",
+            "type": "Claymore",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 76,
+            "name": "Ombre tidale",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 77,
+            "name": "Scie électrique portative",
+            "type": "Claymore",
+            "main_stat": "PV %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 78,
+            "name": "<< Méga épée magique du suzerain ultime >>",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 79,
+            "name": "Trembleur de terre",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 80,
+            "name": "Crochet fructueux",
+            "type": "Claymore",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 81,
+            "name": "Perception forgée par les flammes",
+            "type": "Claymore",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 82,
+            "name": "Clé universelle",
+            "type": "Claymore",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 83,
+            "name": "Fléau du dragon",
+            "type": "Polearm",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 84,
+            "name": "Guisarme stellaire (prototype)",
+            "type": "Polearm",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 85,
+            "name": "Pique du croissant de lune",
+            "type": "Polearm",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 86,
+            "name": "Lance de Rochenoire",
+            "type": "Polearm",
+            "main_stat": "DGT CRIT",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 87,
+            "name": "Scion de la victoire",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 88,
+            "name": "Lance de Favonius",
+            "type": "Polearm",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 89,
+            "name": "Lance de chasse royale",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 90,
+            "name": "Lance Dosdragon",
+            "type": "Polearm",
+            "main_stat": "BONUS DE DGT PHYSIQUE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 91,
+            "name": "Lance des Millelithes",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 92,
+            "name": "Lance en croix de Kitain",
+            "type": "Polearm",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 93,
+            "name": "<< La Prise >>",
+            "type": "Polearm",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Fishing (Inazuma)"],
+            "rarity": 4
+        },
+        {
+            "id": 94,
+            "name": "Aileron de brise-vagues",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 95,
+            "name": "Perce-lune",
+            "type": "Polearm",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 96,
+            "name": "Lance du vent saisonnier",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 97,
+            "name": "Ballade des fjords",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 98,
+            "name": "Récompense légitime",
+            "type": "Polearm",
+            "main_stat": "PV %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 99,
+            "name": "Foret de prospecteur",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 100,
+            "name": "Dialogue des sages du désert",
+            "type": "Polearm",
+            "main_stat": "PV %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 101,
+            "name": "Trace d'arc-en-ciel",
+            "type": "Polearm",
+            "main_stat": "DEF %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 102,
+            "name": "Clou soutenant les montagnes",
+            "type": "Polearm",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 103,
+            "name": "Pelle du prospecteur",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 104,
+            "name": "Bâton de sacrificateur",
+            "type": "Polearm",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 105,
+            "name": "Code Favonius",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 106,
+            "name": "Mouvement vagabond",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 107,
+            "name": "Mémoire de rituels",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 108,
+            "name": "Grimoire royal",
+            "type": "Polearm",
+            "main_stat": "ATK %",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 109,
+            "name": "Perle solaire",
+            "type": "Catalyst",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 110,
+            "name": "Malice (prototype)",
+            "type": "Catalyst",
+            "main_stat": "PV %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 111,
+            "name": "Atlas des terres et des mers",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 112,
+            "name": "Agate de Rochenoire",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Boutique"],
+            "rarity": 4
+        },
+        {
+            "id": 113,
+            "name": "OEil de la perception",
+            "type": "Catalyst",
+            "main_stat": "ATK %",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 114,
+            "name": "Fruit du permafrost",
+            "type": "Catalyst",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 115,
+            "name": "Vins et chamts",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 116,
+            "name": "Anneau des Hakushin",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 117,
+            "name": "Le fruit de l'accomplissement",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 118,
+            "name": "Étoile du soir errante",
+            "type": "Catalyst",
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 119,
+            "name": "Jade sacrificiel",
+            "type": "Catalyst",
+            "main_stat": "TAUX CRIT",
+            "sources": ["Battle Pass"],
+            "rarity": 4
+        },
+        {
+            "id": 120,
+            "name": "Pureté fluide",
+            "type": "Catalyst",
+            "main_stat": "ATK %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 121,
+            "name": "Ballade d'un azur infini",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 121,
+            "name": "Corne à boire cendrée",
+            "type": "Catalyst",
+            "main_stat": "PV %",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 122,
+            "name": "Anneau de Yaxche",
+            "type": "Catalyst",
+            "main_stat": "PV %",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 123,
+            "name": "Tourbillon sur les vagues",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Wish"],
+            "rarity": 4
+        },
+        {
+            "id": 124,
+            "name": "Lyre du tisse-lumière",
+            "type": "Catalyst",
+            "main_stat": "RECHARGE D'ÉNERGIE",
+            "sources": ["Event Exclusive"],
+            "rarity": 4
+        },
+        {
+            "id": 125,
+            "name": "Lanterne à moelle sombre",
+            "type": "Catalyst", 
+            "main_stat": "MAÎTRISE ÉLÉMENTAIRE",
+            "sources": ["Forge"],
+            "rarity": 4
+        },
+        {
+            "id": 126,
+            "name": "Frimas d'aube",
+            "type": "Catalyst",
+            "main_stat": "DGT CRIT",
+            "sources": ["Wish"],
+            "rarity": 4
+        }
+    ]
+}
