@@ -1,0 +1,884 @@
+{
+  "characters": [
+    {
+      "id": "0",
+      "name": "Traveler",
+      "element": ["Pyro", "Hydro", "Dendro", "Electro", "Anemo", "Cryo", "Geo"],
+      "weapon": "Sword",
+      "region": "N/A",
+      "rarity": 5
+    },
+    {
+      "id": "1",
+      "name": "Amber",
+      "element": ["Pyro"],
+      "weapon": "Bow",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "2",
+      "name": "Kaeya",
+      "element": ["Cryo"],
+      "weapon": "Sword",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "3",
+      "name": "Lisa",
+      "element": ["Electro"],
+      "weapon": "Catalyst",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "4",
+      "name": "Razor",
+      "element": ["Electro"],
+      "weapon": "Claymore",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "5",
+      "name": "Barbara",
+      "element": ["Hydro"],
+      "weapon": "Catalyst",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "6",
+      "name": "Xiangling",
+      "element": ["Pyro"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "7",
+      "name": "Beidou",
+      "element": ["Electro"],
+      "weapon": "Claymore",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "8",
+      "name": "Xingqiu",
+      "element": ["Hydro"],
+      "weapon": "Sword",
+      "region": "Liyue",
+      "rarity": 4
+    }, 
+    {
+      "id": "9",
+      "name": "Ningguang",
+      "element": ["Geo"],
+      "weapon": "Catalyst",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "10",
+      "name": "Fischl",
+      "element": ["Electro"],
+      "weapon": "Bow",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "11",
+      "name": "bennett",
+      "element": ["Pyro"],
+      "weapon": "Sword",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "12",
+      "name": "Noëlle",
+      "element": ["Geo"],
+      "weapon": "Claymore",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "13",
+      "name": "Chongyun",
+      "element": ["Cryo"],
+      "weapon": "Claymore",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "14",
+      "name": "Sucrose",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "15",
+      "name": "Jean",
+      "element": ["Anemo"],
+      "weapon": "Sword",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "16",
+      "name": "Diluc",
+      "element": ["Pyro"],
+      "weapon": "Claymore",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "17",
+      "name": "Qiqi",
+      "element": ["Cryo"],
+      "weapon": "Sword",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "18",
+      "name": "Mona",
+      "element": ["Hydro"],
+      "weapon": "Catalyst",
+      "region": "Mondstadt",
+      "rarity": 5
+    },
+    {
+      "id": "19",
+      "name": "Keqing",
+      "element": ["Electro"],
+      "weapon": "Sword",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "20",
+      "name": "Venti",
+      "element": ["Anemo"],
+      "weapon": "Bow",
+      "region": "Mondstadt",
+      "rarity": 5
+    },
+    {
+      "id": "21",
+      "name": "Klee",
+      "element": ["Pyro"],
+      "weapon": "Catalyst",
+      "region": "Mondstadt",
+      "rarity": 5
+    },
+    {
+      "id": "22",
+      "name": "Diona",
+      "element": ["Cryo"],
+      "weapon": "Bow",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "23",
+      "name": "Tartaglia",
+      "element": ["Hydro"],
+      "weapon": "Bow",
+      "region": "Snezhnaya",
+      "rarity": 5
+    },
+    {
+      "id": "24",
+      "name": "Xinyan",
+      "element": ["Pyro"],
+      "weapon": "Claymore",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "25",
+      "name": "Zhongli",
+      "element": ["Geo"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "26",
+      "name": "Albedo",
+      "element": ["Geo"],
+      "weapon": "Sword",
+      "region": "Mondstadt",
+      "rarity": 5
+    },
+    {
+      "id": "27",
+      "name": "Ganyu",
+      "element": ["Cryo"],
+      "weapon": "Bow",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "28",
+      "name": "Xiao",
+      "element": ["Anemo"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "29",
+      "name": "Hu Tao",
+      "element": ["Pyro"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "30",
+      "name": "Rosaria",
+      "element": ["Cryo"],
+      "weapon": "Polearm",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "31",
+      "name": "Yanfei",
+      "element": ["Pyro"],
+      "weapon": "Catalyst",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "32",
+      "name": "Eula",
+      "element": ["Cryo"],
+      "weapon": "Claymore",
+      "region": "Mondstadt",
+      "rarity": 5
+    },
+    {
+      "id": "33",
+      "name": "Kaedehara Kazuha",
+      "element": ["Anemo"],
+      "weapon": "Sword",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "34",
+      "name": "Kamisato Ayaka",
+      "element": ["Cryo"],
+      "weapon": "Sword",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "35",
+      "name": "Sayu",
+      "element": ["Anemo"],
+      "weapon": "Claymore",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "36",
+      "name": "Yoimiya",
+      "element": ["Pyro"],
+      "weapon": "Bow",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "37",
+      "name": "Aloy",
+      "element": ["Cryo"],
+      "weapon": "Bow",
+      "region": "???",
+      "rarity": 5
+    },
+    {
+      "id": "38",
+      "name": "Koujou Sara",
+      "element": ["Electro"],
+      "weapon": "Bow",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "39",
+      "name": "Shogun Raiden",
+      "element": ["Electro"],
+      "weapon": "Polearm",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "40",
+      "name": "Sangonomiya Kokomi",
+      "element": ["Hydro"],
+      "weapon": "Catalyst",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "41",
+      "name": "Thomas",
+      "element": ["Pyro"],
+      "weapon": "Polearm",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "42",
+      "name": "Gorou",
+      "element": ["Geo"],
+      "weapon": "Bow",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "43",
+      "name": "Arataki Itto",
+      "element": ["Geo"],
+      "weapon": "Claymore",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "44",
+      "name": "Yun Lin",
+      "element": ["Geo"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "45",
+      "name": "Shenhe",
+      "element": ["Cryo"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "46",
+      "name": "Yae Miko",
+      "element": ["Electro"],
+      "weapon": "Catalyst",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "47",
+      "name": "Kamisato Ayato",
+      "element": ["Hydro"],
+      "weapon": "Sword",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "48",
+      "name": "Yelan",
+      "element": ["Hydro"],
+      "weapon": "Bow",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "49",
+      "name": "Kuki Shinobu",
+      "element": ["Electro"],
+      "weapon": "Sword",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "50",
+      "name": "Shikanoin Heizou",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "51",
+      "name": "Collei",
+      "element": ["Dendro"],
+      "weapon": "Bow",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "52",
+      "name": "Tighnari",
+      "element": ["Dendro"],
+      "weapon": "Bow",
+      "region": "Sumeru",
+      "rarity": 5
+    },
+    {
+      "id": "53",
+      "name": "Dori",
+      "element": ["Electro"],
+      "weapon": "Claymore",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "54",
+      "name": "Candace",
+      "element": ["Hydro"],
+      "weapon": "Polearm",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "55",
+      "name": "Cyno",
+      "element": ["Electro"],
+      "weapon": "Polearm",
+      "region": "Sumeru",
+      "rarity": 5
+    },
+    {
+      "id": "56",
+      "name": "Nilou",
+      "element": ["Hydro"],
+      "weapon": "Sword",
+      "region": "Sumeru",
+      "rarity": 5
+    },
+    {
+      "id": "57",
+      "name": "Nahida",
+      "element": ["Dendro"],
+      "weapon": "Catalyst",
+      "region": "Sumeru",
+      "rarity": 5
+    },
+    {
+      "id": "58",
+      "name": "Layla",
+      "element": ["Cryo"],
+      "weapon": "Sword",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "59",
+      "name": "Faruzan",
+      "element": ["Anemo"],
+      "weapon": "Bow",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "60",
+      "name": "Wanderer",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "61",
+      "name": "Yao Yao",
+      "element": ["Dendro"],
+      "weapon": "Polearm",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "62",
+      "name": "Alhaitham",
+      "element": ["Dendro"],
+      "weapon": "Sword",
+      "region": "Sumeru",
+      "rarity": 5
+    },
+    {
+      "id": "63",
+      "name": "Dehya",
+      "element": ["Pyro"],
+      "weapon": "Claymore",
+      "region": "Sumeru",
+      "rarity": 5
+    },
+    {
+      "id": "64",
+      "name": "Mika",
+      "element": ["Cryo"],
+      "weapon": "Polearm",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "65",
+      "name": "Kaveh",
+      "element": ["Dendro"],
+      "weapon": "Claymore",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "66",
+      "name": "Baizhu",
+      "element": ["Dendro"],
+      "weapon": "Catalyst",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "67",
+      "name": "Kirara",
+      "element": ["Dendro"],
+      "weapon": "Sword",
+      "region": "Inazuma",
+      "rarity": 4
+    },
+    {
+      "id": "68",
+      "name": "Lynette",
+      "element": ["Anemo"],
+      "weapon": "Sword",
+      "region": "Fontaine",
+      "rarity": 4
+    },
+    {
+      "id": "69",
+      "name": "Lyney",
+      "element": ["Pyro"],
+      "weapon": "Bow",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "70",
+      "name": "Fréminet",
+      "element": ["Cryo"],
+      "weapon": "Claymore",
+      "region": "Fontaine",
+      "rarity": 4
+    },
+    {
+      "id": "71",
+      "name": "Neuvillette",
+      "element": ["Hydro"],
+      "weapon": "Catalyst",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "72",
+      "name": "Wriothesley",
+      "element": ["Cryo"],
+      "weapon": "Catalyst",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "73",
+      "name": "Charlotte",
+      "element": ["Cryo"],
+      "weapon": "Catalyst",
+      "region": "Fontaine",
+      "rarity": 4
+    },
+    {
+      "id": "74",
+      "name": "Furina",
+      "element": ["Hydro"],
+      "weapon": "Sword",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "75",
+      "name": "Navia",
+      "element": ["Geo"],
+      "weapon": "Claymore",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "76",
+      "name": "Chevreuse",
+      "element": ["Pyro"],
+      "weapon": "Polearm",
+      "region": "Fontaine",
+      "rarity": 4
+    },
+    {
+      "id": "77",
+      "name": "Gaming",
+      "element": ["Pyro"],
+      "weapon": "Claymore",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "78",
+      "name": "Xianyun",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Liyue",
+      "rarity": 5
+    },
+    {
+      "id": "79",
+      "name": "Chiori",
+      "element": ["Geo"],
+      "weapon": "Sword",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "80",
+      "name": "Arlecchino",
+      "element": ["Pyro"],
+      "weapon": "Polearm",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "81",
+      "name": "Sethos",
+      "element": ["Electro"],
+      "weapon": "Bow",
+      "region": "Sumeru",
+      "rarity": 4
+    },
+    {
+      "id": "82",
+      "name": "Clorinde",
+      "element": ["Electro"],
+      "weapon": "Sword",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "83",
+      "name": "Sigewin",
+      "element": ["Hydro"],
+      "weapon": "Bow",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "84",
+      "name": "Émilie",
+      "element": ["Dendro"],
+      "weapon": "Polearm",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "85",
+      "name": "Kachina",
+      "element": ["Geo"],
+      "weapon": "Polearm",
+      "region": "Natlan",
+      "rarity": 4
+    },
+    {
+      "id": "86",
+      "name": "Mualani",
+      "element": ["Hydro"],
+      "weapon": "Catalyst",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "87",
+      "name": "Kinich",
+      "element": ["Dendro"],
+      "weapon": "Claymore",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "88",
+      "name": "Xilonen",
+      "element": ["Geo"],
+      "weapon": "Sword",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "89",
+      "name": "Ororon",
+      "element": ["Electro"],
+      "weapon": "Bow",
+      "region": "Natlan",
+      "rarity": 4
+    },
+    {
+      "id": "90",
+      "name": "Chasca",
+      "element": ["Anemo"],
+      "weapon": "Bow",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "91",
+      "name": "Citlali",
+      "element": ["Cryo"],
+      "weapon": "Catalyst",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "92",
+      "name": "Mavuika",
+      "element": ["Pyro"],
+      "weapon": "Claymore",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "93",
+      "name": "Lan Yan",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Liyue",
+      "rarity": 4
+    },
+    {
+      "id": "94",
+      "name": "Yumemizuki Mizuki",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Inazuma",
+      "rarity": 5
+    },
+    {
+      "id": "95",
+      "name": "Iansan",
+      "element": ["Electro"],
+      "weapon": "Polearm",
+      "region": "Natlan",
+      "rarity": 4
+    },
+    {
+      "id": "96",
+      "name": "Varesa",
+      "element": ["Electro"],
+      "weapon": "Catalyst",
+      "region": "Natlan",
+      "rarity": 5
+    },
+    {
+      "id": "97",
+      "name": "Ifa",
+      "element": ["Anemo"],
+      "weapon": "Catalyst",
+      "region": "Natlan",
+      "rarity": 4
+    },
+    {
+      "id": "98",
+      "name": "Escoffier",
+      "element": ["Cryo"],
+      "weapon": "Polearm",
+      "region": "Fontaine",
+      "rarity": 5
+    },
+    {
+      "id": "99",
+      "name": "Dahlia",
+      "element": ["Hydro"],
+      "weapon": "Catalyst",
+      "region": "Mondstadt",
+      "rarity": 4
+    },
+    {
+      "id": "100",
+      "name": "Skirk",
+      "element": ["Cryo"],
+      "weapon": "Sword",
+      "region": "???",
+      "rarity": 5
+    },
+    {
+      "id": "101",
+      "name": "Ineffa",
+      "element": ["Electro"],
+      "weapon": "Polearm",
+      "region": "Nod-Krai",
+      "rarity": 5
+    },
+    {
+      "id": "102",
+      "name": "Aino",
+      "element": ["Hydro"],
+      "weapon": "Polearm",
+      "region": "Nod-Krai",
+      "rarity": 4
+    },
+    {
+      "id": "103",
+      "name": "Lauma",
+      "element": ["Dendro"],
+      "weapon": "Claymore",
+      "region": "Nod-Krai",
+      "rarity": 5
+    },
+    {
+      "id": "104",
+      "name": "Flins",
+      "element": ["Electro"],
+      "weapon": "Polearm",
+      "region": "Nod-Krai",
+      "rarity": 5
+    },
+    {
+      "id": "105",
+      "name": "Manekin 1",
+      "element": ["Pyro", "Hydro", "Dendro", "Electro", "Anemo", "Cryo", "Geo"],
+      "weapon": "Sword",
+      "region": "Paradisia Millistral",
+      "rarity": 5
+    },
+    {
+      "id": "106",
+      "name": "Manekin 2",
+      "element": ["Pyro", "Hydro", "Dendro", "Electro", "Anemo", "Cryo", "Geo"],
+      "weapon": "Sword",
+      "region": "Paradisia Millistral",
+      "rarity": 5
+    },
+    {
+      "id": "107",
+      "name": "Nefer",
+      "element": ["Dendro"],
+      "weapon": "Catalyst",
+      "region": "Nod-Krai",
+      "rarity": 5
+    },
+    {
+      "id": "108",
+      "name": "Jahoda",
+      "element": ["Anemo"],
+      "weapon": "Bow",
+      "region": "Nod-Krai",
+      "rarity": 4
+    },
+    {
+      "id": "109",
+      "name": "Durin",
+      "element": ["Pyro"],
+      "weapon": "Sword",
+      "region": "Mondstadt",
+      "rarity": 5
+    }
+  ]
+}
