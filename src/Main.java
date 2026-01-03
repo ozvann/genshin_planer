@@ -4,9 +4,9 @@ import java.io.Reader;
 import com.google.gson.Gson;
 
 
-// Pour complier (a la racine du projet) : javac -cp "./lib/gson-2.13.1.jar" src/Main.java
+// Pour complier (a la racine du projet) : javac -cp "./lib/gson-2.13.1.jar" src/* */.java
 
-// Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar;src" Main   
+// Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar;src" Main
 
 public class Main {
     public static void main(String[] args) {
@@ -28,19 +28,4 @@ public class Main {
             System.out.println(c.name + " (" + c.rarity + "*)");
         }
 	}
-
-
-    class GenshinData { // Classe racine pour lire le fichier
-        String version;
-        Character[] characters;
-    }
-
-    class Character {
-        String id;
-        String name;
-        String[] element;
-        String weapon;
-        String affiliation;
-        int rarity;
-    }
 }
