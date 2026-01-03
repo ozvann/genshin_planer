@@ -1,6 +1,6 @@
 {
     "version": "5.3",
-    "Weapon": [
+    "weapon": [
         {
             "id": "dull_blade",
             "name": "Épée émoussée",
