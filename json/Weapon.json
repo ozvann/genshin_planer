@@ -1,7 +1,8 @@
 {
+    "version": "5.3",
     "Weapon": [
         {
-            "id": 0,
+            "id": "dull_blade",
             "name": "Épée émoussée",
             "type": "sword",
             "main_stat": "none",
@@ -9,7 +10,7 @@
             "rarity": 1
         },
         {
-            "id": 1,
+            "id": "waster_s_greatsword",
             "name": "Épée d'entraînement",
             "type": "claymore",
             "main_stat": "none",
@@ -17,7 +18,7 @@
             "rarity": 1
         },
         {
-            "id": 2,
+            "id": "Beginner_s_protector",
             "name": "Lance du débutant",
             "type": "polearm",
             "main_stat": "none",
@@ -25,7 +26,7 @@
             "rarity": 1
         },
         {
-            "id": 3,
+            "id": "apprentice_s_notes",
             "name": "Notes de l'apprenti",
             "type": "catalyst",
             "main_stat": "none",
@@ -33,7 +34,7 @@
             "rarity": 1
         },
         {
-            "id": 4,
+            "id": "hunter_s_bow",
             "name": "Arc de chasse",
             "type": "bow",
             "main_stat": "none",
@@ -41,7 +42,7 @@
             "rarity": 1
         },
         {
-            "id": 5,
+            "id": "silver_sword",
             "name": "Épée en argent",
             "type": "sword",
             "main_stat": "none",
@@ -49,7 +50,7 @@
             "rarity": 2
         },
         {
-            "id": 6,
+            "id": "old_merc_s_pal",
             "name": "Lame du mercenaire",
             "type": "claymore",
             "main_stat": "none",
@@ -57,7 +58,7 @@
             "rarity": 2
         },
         {
-            "id": 7,
+            "id": "iron_point",
             "name": "Pointe de fer",
             "type": "polearm",
             "main_stat": "none",
@@ -65,7 +66,7 @@
             "rarity": 2
         },
         {
-            "id": 8,
+            "id": "pocket_grimoire",
             "name": "Grimoire de poche",
             "type": "catalyst",
             "main_stat": "none",
@@ -73,7 +74,7 @@
             "rarity": 2
         },
         {
-            "id": 9,
+            "id": "seasoned_hunter_s_bow",
             "name": "Arc de chasse aguerrie",
             "type": "bow",
             "main_stat": "none",
@@ -81,7 +82,7 @@
             "rarity": 2
         },
         {
-            "id": 10,
+            "id": "cool_steel",
             "name": "Lame froide",
             "type": "sword",
             "main_stat": "atk",
@@ -89,7 +90,7 @@
             "rarity": 3
         },
         {
-            "id": 11,
+            "id": "harbinger_of_dawn",
             "name": "Messager de l'aube",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -97,7 +98,7 @@
             "rarity": 3
         },
         {
-            "id": 12,
+            "id": "traveler_s_handy_sword",
             "name": "Épée du voyageur",
             "type": "sword",
             "main_stat": "def",
@@ -105,7 +106,7 @@
             "rarity": 3
         },
         {
-            "id": 13,
+            "id": "fillet_blade",
             "name": "Couteau à filets",
             "type": "sword",
             "main_stat": "atk",
@@ -113,7 +114,7 @@
             "rarity": 3
         },
         {
-            "id": 14,
+            "id": "skyrider_sword",
             "name": "Épée celeste",
             "type": "sword",
             "main_stat": "er",
@@ -121,7 +122,7 @@
             "rarity": 3
         },
         {
-            "id": 15,
+            "id": "ferrous_shadow",
             "name": "Ombre ferreuse",
             "type": "claymore",
             "main_stat": "pv",
@@ -129,7 +130,7 @@
             "rarity": 3
         },
         {
-            "id": 16,
+            "id": "bloodtainted_greatsword",
             "name": "Épée sanglante",
             "type": "claymore",
             "main_stat": "em",
@@ -137,7 +138,7 @@
             "rarity": 3
         },
         {
-            "id": 17,
+            "id": "white_iron_greatsword",
             "name": "Grande épée en fer blanc",
             "type": "claymore",
             "main_stat": "def",
@@ -145,7 +146,7 @@
             "rarity": 3
         },
         {
-            "id": 18,
+            "id": "debate_club",
             "name": "Épée de la raison",
             "type": "claymore",
             "main_stat": "atk",
@@ -153,15 +154,15 @@
             "rarity": 3
         },
         {
-            "id": 19,
+            "id": "skyrider_greatsword",
             "name": "Grande épée celeste",
             "type": "claymore",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["chest"],
             "rarity": 3
         },
         {
-            "id": 20,
+            "id": "white_tassel",
             "name": "Pampille blanche",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -169,7 +170,7 @@
             "rarity": 3
         },
         {
-            "id": 21,
+            "id": "halberd",
             "name": "Hallebarde",
             "type": "polearm",
             "main_stat": "atk",
@@ -177,7 +178,7 @@
             "rarity": 3
         },
         {
-            "id": 22,
+            "id": "black_tassel",
             "name": "Pampille noire",
             "type": "polearm",
             "main_stat": "pv",
@@ -185,7 +186,7 @@
             "rarity": 3
         },
         {
-            "id": 23,
+            "id": "magic_guide",
             "name": "Guide de magie",
             "type": "catalyst",
             "main_stat": "em",
@@ -193,7 +194,7 @@
             "rarity": 3
         },
         {
-            "id": 24,
+            "id": "thrilling_tales_of_dragon_slayers",
             "name": "Histoire des chasseurs de dragons",
             "type": "catalyst",
             "main_stat": "pv",
@@ -201,7 +202,7 @@
             "rarity": 3
         },
         {
-            "id": 25,
+            "id": "otherworldly_story",
             "name": "Conte d'un autre monde",
             "type": "catalyst",
             "main_stat": "er",
@@ -209,7 +210,7 @@
             "rarity": 3
         },
         {
-            "id": 26,
+            "id": "emerald_orb",
             "name": "Orbe jadien",
             "type": "catalyst",
             "main_stat": "em",
@@ -217,7 +218,7 @@
             "rarity": 3
         },
         {
-            "id": 27,
+            "id": "twin_nephrite",
             "name": "Néphrite jumelle",
             "type": "catalyst",
             "main_stat": "crit_rate",
@@ -225,7 +226,7 @@
             "rarity": 3
         },
         {
-            "id": 28,
+            "id": "raven_bow",
             "name": "Arc du corbeau",
             "type": "bow",
             "main_stat": "em",
@@ -233,7 +234,7 @@
             "rarity": 3
         },
         {
-            "id": 29,
+            "id": "sharpshooter_s_oath",
             "name": "Serment de l'archer",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -241,7 +242,7 @@
             "rarity": 3
         },
         {
-            "id": 30,
+            "id": "recurve_bow",
             "name": "Arc Courbé",
             "type": "bow",
             "main_stat": "pv",
@@ -249,7 +250,7 @@
             "rarity": 3
         },
         {
-            "id": 31,
+            "id": "slingshot",
             "name": "Lance-pierres",
             "type": "bow",
             "main_stat": "crit_rate",
@@ -257,7 +258,7 @@
             "rarity": 3
         },
         {
-            "id": 32,
+            "id": "messenger",
             "name": "Messager",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -265,7 +266,7 @@
             "rarity": 3
         },
         {
-            "id": 33,
+            "id": "favonius_sword",
             "name": "Épée de Favonius",
             "type": "sword",
             "main_stat": "er",
@@ -273,7 +274,7 @@
             "rarity": 4
         },
         {
-            "id": 34,
+            "id": "the_flute",
             "name": "Flûte",
             "type": "sword",
             "main_stat": "atk",
@@ -281,7 +282,7 @@
             "rarity": 4
         },
         {
-            "id": 35,
+            "id": "sacrificial_sword",
             "name": "Épée rituelle",
             "type": "sword",
             "main_stat": "er",
@@ -289,7 +290,7 @@
             "rarity": 4
         },
         {
-            "id": 36,
+            "id": "royal_longsword",
             "name": "Épée longue royale",
             "type": "sword",
             "main_stat": "atk",
@@ -297,7 +298,7 @@
             "rarity": 4
         },
         {
-            "id": 37,
+            "id": "lion_s_roar",
             "name": "Rugissement du lion",
             "type": "sword",
             "main_stat": "atk",
@@ -305,15 +306,15 @@
             "rarity": 4
         },
         {
-            "id": 38,
+            "id": "prototype_rancour",
             "name": "Tailleur de pierre (prototype)",
             "type": "sword",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["ar10", "forge"],
             "rarity": 4
         },
         {
-            "id": 39,
+            "id": "iron_sting",
             "name": "Piqûre de fer",
             "type": "sword",
             "main_stat": "em",
@@ -321,7 +322,7 @@
             "rarity": 4
         },
         {
-            "id": 40,
+            "id": "blackcliff_longsword",
             "name": "Épée longue de Rochenoire",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -329,7 +330,7 @@
             "rarity": 4
         },
         {
-            "id": 41,
+            "id": "the_black_sword",
             "name": "Épée noire",
             "type": "sword",
             "main_stat": "crit_rate",
@@ -337,7 +338,7 @@
             "rarity": 4
         },
         {
-            "id": 42,
+            "id": "sword_of_descension",
             "name": "Épée de la descente",
             "type": "sword",
             "main_stat": "atk",
@@ -345,7 +346,7 @@
             "rarity": 4
         },
         {
-            "id": 43,
+            "id": "the_alley_flash",
             "name": "Éclair des impasses",
             "type": "sword",
             "main_stat": "em",
@@ -353,7 +354,7 @@
             "rarity": 4
         },
         {
-            "id": 44,
+            "id": "amenoma_kageuchi",
             "name": "Lame kageuchi d'Amenoma",
             "type": "sword",
             "main_stat": "atk",
@@ -361,7 +362,7 @@
             "rarity": 4
         },
         {
-            "id": 45,
+            "id": "kagotsurube_isshin",
             "name": "Kagotsurube Isshin",
             "type": "sword",
             "main_stat": "atk",
@@ -369,7 +370,7 @@
             "rarity": 4
         },
         {
-            "id": 46,
+            "id": "sapwood_blade",
             "name": "Lame d'Aubier",
             "type": "sword",
             "main_stat": "er",
@@ -377,7 +378,7 @@
             "rarity": 4
         },
         {
-            "id": 47,
+            "id": "xiphos_moonlight",
             "name": "Clair de lune de Xiphos",
             "type": "sword",
             "main_stat": "em",
@@ -385,7 +386,7 @@
             "rarity": 4
         },
         {
-            "id": 48,
+            "id": "toukabou_shigure",
             "name": "Pluie florale",
             "type": "sword",
             "main_stat": "em",
@@ -393,7 +394,7 @@
             "rarity": 4
         },
         {
-            "id": 49,
+            "id": "wolf_fang",
             "name": "Croc de loup",
             "type": "sword",
             "main_stat": "crit_rate",
@@ -401,7 +402,7 @@
             "rarity": 4
         },
         {
-            "id": 50,
+            "id": "finale_of_the_deep",
             "name": "Final des profondeurs",
             "type": "sword",
             "main_stat": "atk",
@@ -409,7 +410,7 @@
             "rarity": 4
         },
         {
-            "id": 51,
+            "id": "fleuve_cendre_ferryman",
             "name": "Passeur du Fleuve cendré",
             "type": "sword",
             "main_stat": "er",
@@ -417,7 +418,7 @@
             "rarity": 4
         },
         {
-            "id": 52,
+            "id": "the_dockhand_s_assistant",
             "name": "L'assistant du docker",
             "type": "sword",
             "main_stat": "pv",
@@ -425,15 +426,15 @@
             "rarity": 4
         },
         {
-            "id": 53,
+            "id": "sword_of_narzissenkreuz",
             "name": "Lame du Narzissenkreuz",
             "type": "sword",
             "main_stat": "atk",
-            "sources": ["Narzissenkreuz_quest"],
+            "sources": ["narzissenkreuz_quest"],
             "rarity": 4
         },
         {
-            "id": 54,
+            "id": "flute_of_ezpitzal",
             "name": "Flûte d'ezpitzal",
             "type": "sword",
             "main_stat": "def",
@@ -441,7 +442,7 @@
             "rarity": 4
         },
         {
-            "id": 55,
+            "id": "sturdy_bone",
             "name": "Os robuste",
             "type": "sword",
             "main_stat": "atk",
@@ -449,7 +450,7 @@
             "rarity": 4
         },
         {
-            "id": 56,
+            "id": "calamity_of_eshu",
             "name": "La calamité d'Eshu",
             "type": "sword",
             "main_stat": "atk",
@@ -457,7 +458,7 @@
             "rarity": 4
         },
         {
-            "id": 57,
+            "id": "serenity_s_call",
             "name": "Appel de sérénité",
             "type": "sword",
             "main_stat": "er",
@@ -465,7 +466,7 @@
             "rarity": 4
         },
         {
-            "id": 58,
+            "id": "moonweaver_s_down",
             "name": "Aube du tisse-lune",
             "type": "sword",
             "main_stat": "atk",
@@ -473,7 +474,7 @@
             "rarity": 4
         },
         {
-            "id": 59,
+            "id": "favonius_greatsword",
             "name": "Espadon de Favonius",
             "type": "claymore",
             "main_stat": "er",
@@ -481,7 +482,7 @@
             "rarity": 4
         },
         {
-            "id": 60,
+            "id": "the_bell",
             "name": "Épée-horloge",
             "type": "claymore",
             "main_stat": "pv",
@@ -489,7 +490,7 @@
             "rarity": 4
         },
         {
-            "id": 61,
+            "id": "sacrificial_greatsword",
             "name": "Espadon rituel",
             "type": "claymore",
             "main_stat": "er",
@@ -497,7 +498,7 @@
             "rarity": 4
         },
         {
-            "id": 62,
+            "id": "royal_greatsword",
             "name": "Espadon royal",
             "type": "claymore",
             "main_stat": "atk",
@@ -505,7 +506,7 @@
             "rarity": 4
         },
         {
-            "id": 63,
+            "id": "rainslasher",
             "name": "Fluorescence",
             "type": "claymore",
             "main_stat": "em",
@@ -513,7 +514,7 @@
             "rarity": 4
         },
         {
-            "id": 64,
+            "id": "prototype_archaic",
             "name": "Espadon (prototype)",
             "type": "claymore",
             "main_stat": "atk",
@@ -521,7 +522,7 @@
             "rarity": 4
         },
         {
-            "id": 65,
+            "id": "whiteblind",
             "name": "Ombre immacuée",
             "type": "claymore",
             "main_stat": "def",
@@ -529,7 +530,7 @@
             "rarity": 4
         },
         {
-            "id": 66,
+            "id": "blackcliff_slasher",
             "name": "Espadon de Rochenoire",
             "type": "claymore",
             "main_stat": "crit_dmg",
@@ -537,7 +538,7 @@
             "rarity": 4
         },
         {
-            "id": 67,
+            "id": "serpent_spine",
             "name": "Ossature du dragon",
             "type": "claymore",
             "main_stat": "crit_rate",
@@ -545,15 +546,15 @@
             "rarity": 4
         },
         {
-            "id": 68,
+            "id": "snow_tombed_starsilver",
             "name": "Tombe-neige en argétoile",
             "type": "claymore",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["forge"],
             "rarity": 4
         },
         {
-            "id": 69,
+            "id": "lithic_blade",
             "name": "Épée antique des Millelithes",
             "type": "claymore",
             "main_stat": "atk",
@@ -561,7 +562,7 @@
             "rarity": 4
         },
         {
-            "id": 70,
+            "id": "katsuragikiri_nagamasa",
             "name": "Espadon de Nagamasa",
             "type": "claymore",
             "main_stat": "er",
@@ -569,7 +570,7 @@
             "rarity": 4
         },
         {
-            "id": 71,
+            "id": "akuoumaru",
             "name": "Akuoumaru",
             "type": "claymore",
             "main_stat": "atk",
@@ -577,7 +578,7 @@
             "rarity": 4
         },
         {
-            "id": 72,
+            "id": "forest_regalia",
             "name": "Apparat de la forêt",
             "type": "claymore",
             "main_stat": "er",
@@ -585,7 +586,7 @@
             "rarity": 4
         },
         {
-            "id": 73,
+            "id": "makhaira_aquamarine",
             "name": "Aigue-marine de Makhaira",
             "type": "claymore",
             "main_stat": "em",
@@ -593,7 +594,7 @@
             "rarity": 4
         },
         {
-            "id": 74,
+            "id": "mailed_flower",
             "name": "Fleur de mailles",
             "type": "claymore",
             "main_stat": "em",
@@ -601,7 +602,7 @@
             "rarity": 4
         },
         {
-            "id": 75,
+            "id": "talking_stick",
             "name": "Bâton bavard",
             "type": "claymore",
             "main_stat": "crit_rate",
@@ -609,7 +610,7 @@
             "rarity": 4
         },
         {
-            "id": 76,
+            "id": "tidal_shadow",
             "name": "Ombre tidale",
             "type": "claymore",
             "main_stat": "atk",
@@ -617,7 +618,7 @@
             "rarity": 4
         },
         {
-            "id": 77,
+            "id": "portable_power_saw",
             "name": "Scie électrique portative",
             "type": "claymore",
             "main_stat": "pv",
@@ -625,7 +626,7 @@
             "rarity": 4
         },
         {
-            "id": 78,
+            "id": "ultimate_overlord_s_mega_magic_sword",
             "name": "<< Méga épée magique du suzerain ultime >>",
             "type": "claymore",
             "main_stat": "er",
@@ -633,7 +634,7 @@
             "rarity": 4
         },
         {
-            "id": 79,
+            "id": "earth_shaker",
             "name": "Trembleur de terre",
             "type": "claymore",
             "main_stat": "atk",
@@ -641,7 +642,7 @@
             "rarity": 4
         },
         {
-            "id": 80,
+            "id": "fruitful_hook",
             "name": "Crochet fructueux",
             "type": "claymore",
             "main_stat": "atk",
@@ -649,7 +650,7 @@
             "rarity": 4
         },
         {
-            "id": 81,
+            "id": "flame_forged_insight",
             "name": "Perception forgée par les flammes",
             "type": "claymore",
             "main_stat": "em",
@@ -657,7 +658,7 @@
             "rarity": 4
         },
         {
-            "id": 82,
+            "id": "master_key",
             "name": "Clé universelle",
             "type": "claymore",
             "main_stat": "er",
@@ -665,7 +666,7 @@
             "rarity": 4
         },
         {
-            "id": 83,
+            "id": "dragon_s_bane",
             "name": "Fléau du dragon",
             "type": "polearm",
             "main_stat": "em",
@@ -673,7 +674,7 @@
             "rarity": 4
         },
         {
-            "id": 84,
+            "id": "prototype_starglitter",
             "name": "Guisarme stellaire (prototype)",
             "type": "polearm",
             "main_stat": "er",
@@ -681,15 +682,15 @@
             "rarity": 4
         },
         {
-            "id": 85,
+            "id": "crescent_pike",
             "name": "Pique du croissant de lune",
             "type": "polearm",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["forge"],
             "rarity": 4
         },
         {
-            "id": 86,
+            "id": "blackcliff_pole",
             "name": "Lance de Rochenoire",
             "type": "polearm",
             "main_stat": "crit_dmg",
@@ -697,7 +698,7 @@
             "rarity": 4
         },
         {
-            "id": 87,
+            "id": "deathmatch",
             "name": "Scion de la victoire",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -705,7 +706,7 @@
             "rarity": 4
         },
         {
-            "id": 88,
+            "id": "favonius_lance",
             "name": "Lance de Favonius",
             "type": "polearm",
             "main_stat": "er",
@@ -713,7 +714,7 @@
             "rarity": 4
         },
         {
-            "id": 89,
+            "id": "royal_spear",
             "name": "Lance de chasse royale",
             "type": "polearm",
             "main_stat": "atk",
@@ -721,15 +722,15 @@
             "rarity": 4
         },
         {
-            "id": 90,
+            "id": "dragonspine_spear",
             "name": "Lance Dosdragon",
             "type": "polearm",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["forge"],
             "rarity": 4
         },
         {
-            "id": 91,
+            "id": "lithic_spear",
             "name": "Lance des Millelithes",
             "type": "polearm",
             "main_stat": "atk",
@@ -737,7 +738,7 @@
             "rarity": 4
         },
         {
-            "id": 92,
+            "id": "kitain_cross_spear",
             "name": "Lance en croix de Kitain",
             "type": "polearm",
             "main_stat": "em",
@@ -745,7 +746,7 @@
             "rarity": 4
         },
         {
-            "id": 93,
+            "id": "the_catch",
             "name": "<< La Prise >>",
             "type": "polearm",
             "main_stat": "er",
@@ -753,7 +754,7 @@
             "rarity": 4
         },
         {
-            "id": 94,
+            "id": "wavebreaker_s_fin",
             "name": "Aileron de brise-vagues",
             "type": "polearm",
             "main_stat": "atk",
@@ -761,7 +762,7 @@
             "rarity": 4
         },
         {
-            "id": 95,
+            "id": "moonpiercer",
             "name": "Perce-lune",
             "type": "polearm",
             "main_stat": "em",
@@ -769,7 +770,7 @@
             "rarity": 4
         },
         {
-            "id": 96,
+            "id": "missive_windspear",
             "name": "Lance du vent saisonnier",
             "type": "polearm",
             "main_stat": "atk",
@@ -777,7 +778,7 @@
             "rarity": 4
         },
         {
-            "id": 97,
+            "id": "ballad_of_the_fjords",
             "name": "Ballade des fjords",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -785,7 +786,7 @@
             "rarity": 4
         },
         {
-            "id": 98,
+            "id": "rightful_reward",
             "name": "Récompense légitime",
             "type": "polearm",
             "main_stat": "pv",
@@ -793,7 +794,7 @@
             "rarity": 4
         },
         {
-            "id": 99,
+            "id": "prospector's_drill",
             "name": "Foret de prospecteur",
             "type": "polearm",
             "main_stat": "atk",
@@ -801,7 +802,7 @@
             "rarity": 4
         },
         {
-            "id": 100,
+            "id": "dialogues_of_the_desert_sages",
             "name": "Dialogue des sages du désert",
             "type": "polearm",
             "main_stat": "pv",
@@ -809,7 +810,7 @@
             "rarity": 4
         },
         {
-            "id": 101,
+            "id": "footprint_of_the_rainbow",
             "name": "Trace d'arc-en-ciel",
             "type": "polearm",
             "main_stat": "def",
@@ -817,7 +818,7 @@
             "rarity": 4
         },
         {
-            "id": 102,
+            "id": "mountain_bracing_bolt",
             "name": "Clou soutenant les montagnes",
             "type": "polearm",
             "main_stat": "er",
@@ -825,7 +826,7 @@
             "rarity": 4
         },
         {
-            "id": 103,
+            "id": "prospector_s_shovel",
             "name": "Pelle du prospecteur",
             "type": "polearm",
             "main_stat": "atk",
@@ -833,7 +834,7 @@
             "rarity": 4
         },
         {
-            "id": 104,
+            "id": "sacrificer_s_staff",
             "name": "Bâton de sacrificateur",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -841,7 +842,7 @@
             "rarity": 4
         },
         {
-            "id": 105,
+            "id": "favonius_codex",
             "name": "Code Favonius",
             "type": "catalyst",
             "main_stat": "er",
@@ -849,7 +850,7 @@
             "rarity": 4
         },
         {
-            "id": 106,
+            "id": "the_widsith",
             "name": "Mouvement vagabond",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -857,7 +858,7 @@
             "rarity": 4
         },
         {
-            "id": 107,
+            "id": "sacrificial_fragments",
             "name": "Mémoire de rituels",
             "type": "catalyst",
             "main_stat": "em",
@@ -865,15 +866,15 @@
             "rarity": 4
         },
         {
-            "id": 108,
+            "id": "royal_grimoire",
             "name": "Grimoire royal",
-            "type": "polearm",
+            "type": "catalyst",
             "main_stat": "atk",
             "sources": ["boutique"],
             "rarity": 4
         },
         {
-            "id": 109,
+            "id": "solar_pearl",
             "name": "Perle solaire",
             "type": "catalyst",
             "main_stat": "crit_rate",
@@ -881,7 +882,7 @@
             "rarity": 4
         },
         {
-            "id": 110,
+            "id": "prototype_amber",
             "name": "Malice (prototype)",
             "type": "catalyst",
             "main_stat": "pv",
@@ -889,7 +890,7 @@
             "rarity": 4
         },
         {
-            "id": 111,
+            "id": "mappa_mare",
             "name": "Atlas des terres et des mers",
             "type": "catalyst",
             "main_stat": "em",
@@ -897,7 +898,7 @@
             "rarity": 4
         },
         {
-            "id": 112,
+            "id": "blackcliff_agate",
             "name": "Agate de Rochenoire",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -905,7 +906,7 @@
             "rarity": 4
         },
         {
-            "id": 113,
+            "id": "eye_of_perception",
             "name": "Œil de la perception",
             "type": "catalyst",
             "main_stat": "atk",
@@ -913,7 +914,7 @@
             "rarity": 4
         },
         {
-            "id": 114,
+            "id": "frostbearer",
             "name": "Fruit du permafrost",
             "type": "catalyst",
             "main_stat": "atk",
@@ -921,7 +922,7 @@
             "rarity": 4
         },
         {
-            "id": 115,
+            "id": "wine_and_song",
             "name": "Vins et chants",
             "type": "catalyst",
             "main_stat": "er",
@@ -929,7 +930,7 @@
             "rarity": 4
         },
         {
-            "id": 116,
+            "id": "hakushin_ring",
             "name": "Anneau des Hakushin",
             "type": "catalyst",
             "main_stat": "er",
@@ -937,7 +938,7 @@
             "rarity": 4
         },
         {
-            "id": 117,
+            "id": "fruit_of_fulfillment",
             "name": "Le fruit de l'accomplissement",
             "type": "catalyst",
             "main_stat": "er",
@@ -945,7 +946,7 @@
             "rarity": 4
         },
         {
-            "id": 118,
+            "id": "wandering_evenstar",
             "name": "Étoile du soir errante",
             "type": "catalyst",
             "main_stat": "em",
@@ -953,7 +954,7 @@
             "rarity": 4
         },
         {
-            "id": 119,
+            "id": "sacrificial_jade",
             "name": "Jade sacrificiel",
             "type": "catalyst",
             "main_stat": "crit_rate",
@@ -961,7 +962,7 @@
             "rarity": 4
         },
         {
-            "id": 120,
+            "id": "flowing_purity",
             "name": "Pureté fluide",
             "type": "catalyst",
             "main_stat": "atk",
@@ -969,7 +970,7 @@
             "rarity": 4
         },
         {
-            "id": 121,
+            "id": "ballad_of_the_boundless_blue",
             "name": "Ballade d'un azur infini",
             "type": "catalyst",
             "main_stat": "er",
@@ -977,7 +978,7 @@
             "rarity": 4
         },
         {
-            "id": 121,
+            "id": "ash_graven_drinking_horn",
             "name": "Corne à boire cendrée",
             "type": "catalyst",
             "main_stat": "pv",
@@ -985,7 +986,7 @@
             "rarity": 4
         },
         {
-            "id": 122,
+            "id": "ring_of_yaxche",
             "name": "Anneau de Yaxche",
             "type": "catalyst",
             "main_stat": "pv",
@@ -993,7 +994,7 @@
             "rarity": 4
         },
         {
-            "id": 123,
+            "id": "waveriding_whirl",
             "name": "Tourbillon sur les vagues",
             "type": "catalyst",
             "main_stat": "er",
@@ -1001,7 +1002,7 @@
             "rarity": 4
         },
         {
-            "id": 124,
+            "id": "etherlight_spindlelute",
             "name": "Lyre du tisse-lumière",
             "type": "catalyst",
             "main_stat": "er",
@@ -1009,7 +1010,7 @@
             "rarity": 4
         },
         {
-            "id": 125,
+            "id": "blackmarrow_lantern",
             "name": "Lanterne à moelle sombre",
             "type": "catalyst", 
             "main_stat": "em",
@@ -1017,7 +1018,7 @@
             "rarity": 4
         },
         {
-            "id": 126,
+            "id": "downing_frost",
             "name": "Frimas d'aube",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1025,7 +1026,7 @@
             "rarity": 4
         },
         {
-            "id": 127,
+            "id": "favonius_warbow",
             "name": "Arc de chasse de Favonius",
             "type": "bow",
             "main_stat": "er",
@@ -1033,7 +1034,7 @@
             "rarity": 4
         },
         {
-            "id": 128,
+            "id": "the_stringless",
             "name": "Dernière corde",
             "type": "bow",
             "main_stat": "em",
@@ -1041,7 +1042,7 @@
             "rarity": 4
         },
         {
-            "id": 129,
+            "id": "sacrificial_bow",
             "name": "Arc rituel",
             "type": "bow",
             "main_stat": "er",
@@ -1049,7 +1050,7 @@
             "rarity": 4
         },
         {
-            "id": 130,
+            "id": "royal_bow",
             "name": "Arc royal",
             "type": "bow",
             "main_stat": "atk",
@@ -1057,7 +1058,7 @@
             "rarity": 4
         },
         {
-            "id": 131,
+            "id": "rust",
             "name": "Arc rouillé",
             "type": "bow",
             "main_stat": "atk",
@@ -1065,7 +1066,7 @@
             "rarity": 4
         },
         {
-            "id": 132,
+            "id": "prototype_crescent",
             "name": "Lune paisible (prototype)",
             "type": "bow",
             "main_stat": "atk",
@@ -1073,15 +1074,15 @@
             "rarity": 4
         },
         {
-            "id": 133,
+            "id": "compound_bow",
             "name": "Arc à poulies",
             "type": "bow",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["forge"],
             "rarity": 4
         },
         {
-            "id": 134,
+            "id": "blackcliff_warbow",
             "name": "Arc de guerre de Rochenoire",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -1089,7 +1090,7 @@
             "rarity": 4
         },
         {
-            "id": 135,
+            "id": "the_viridescent_hunt",
             "name": "Arc de chasse verdoyant",
             "type": "bow",
             "main_stat": "crit_rate",
@@ -1097,7 +1098,7 @@
             "rarity": 4
         },
         {
-            "id": 136,
+            "id": "halley_hunter",
             "name": "Traqueur des impasses",
             "type": "bow",
             "main_stat": "atk",
@@ -1105,15 +1106,15 @@
             "rarity": 4
         },
         {
-            "id": 137,
+            "id": "mitternachts_waltz",
             "name": "Valse nocturne",
             "type": "bow",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["wish"],
             "rarity": 4
         },
         {
-            "id": 138,
+            "id": "hamayumi",
             "name": "Arc d'exorcisme",
             "type": "bow",
             "main_stat": "atk",
@@ -1121,7 +1122,7 @@
             "rarity": 4
         },
         {
-            "id": 139,
+            "id": "predator",
             "name": "Predator",
             "type": "bow",
             "main_stat": "atk",
@@ -1129,7 +1130,7 @@
             "rarity": 4
         },
         {
-            "id": 140,
+            "id": "mouun_s_moon",
             "name": "Lune de Mouun",
             "type": "bow",
             "main_stat": "atk",
@@ -1137,7 +1138,7 @@
             "rarity": 4
         },
         {
-            "id": 141,
+            "id": "king_s_squire",
             "name": "Le valet du roi",
             "type": "bow",
             "main_stat": "atk",
@@ -1145,7 +1146,7 @@
             "rarity": 4
         },
         {
-            "id": 142,
+            "id": "end_of_the_line",
             "name": "Chalutier",
             "type": "bow",
             "main_stat": "er",
@@ -1153,7 +1154,7 @@
             "rarity": 4
         },
         {
-            "id": 143,
+            "id": "ibis_piercer",
             "name": "Perceur d'ibis",
             "type": "bow",
             "main_stat": "atk",
@@ -1161,7 +1162,7 @@
             "rarity": 4
         },
         {
-            "id": 144,
+            "id": "scion_of_the_blazing_sun",
             "name": "Descendant du soleil flamboyant",
             "type": "bow",
             "main_stat": "crit_rate",
@@ -1169,7 +1170,7 @@
             "rarity": 4
         },
         {
-            "id": 145,
+            "id": "song_of_stillness",
             "name": "Chant de quiétude",
             "type": "bow",
             "main_stat": "atk",
@@ -1177,7 +1178,7 @@
             "rarity": 4
         },
         {
-            "id": 146,
+            "id": "range_gauge",
             "name": "Jauge de portée",
             "type": "bow",
             "main_stat": "atk",
@@ -1185,7 +1186,7 @@
             "rarity": 4
         },
         {
-            "id": 147,
+            "id": "cloudforged",
             "name": "Nimbus-forgé",
             "type": "bow",
             "main_stat": "em",
@@ -1193,7 +1194,7 @@
             "rarity": 4
         },
         {
-            "id": 148,
+            "id": "chain_breaker",
             "name": "Brise-chaîne",
             "type": "bow",
             "main_stat": "atk",
@@ -1201,7 +1202,7 @@
             "rarity": 4
         },
         {
-            "id": 149,
+            "id": "flower_whearthed_feather",
             "name": "Plumard de fleurs",
             "type": "bow",
             "main_stat": "atk",
@@ -1209,7 +1210,7 @@
             "rarity": 4
         },
         {
-            "id":150,
+            "id": "snare_hook",
             "name": "Crochet de capture",
             "type": "bow",
             "main_stat": "er",
@@ -1217,7 +1218,7 @@
             "rarity": 4
         },
         {
-            "id": 151,
+            "id": "rainbow_serpent_s_rain_bow",
             "name": "Arc pluvial du serpent arc-en-ciel",
             "type": "bow",
             "main_stat": "er",
@@ -1225,15 +1226,15 @@
             "rarity": 4
         },
         {
-            "id": 152,
+            "id": "aquila_favonia",
             "name": "Épée du faucon",
             "type": "sword",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["wish"],
             "rarity": 5
         },
         {
-            "id": 153,
+            "id": "skyward_blade",
             "name": "Lame de la Voûte d'Azur",
             "type": "sword",
             "main_stat": "er",
@@ -1241,7 +1242,7 @@
             "rarity": 5
         },
         {
-            "id": 154,
+            "id": "summit_shaper",
             "name": "Tranche-sommets",
             "type": "sword",
             "main_stat": "atk",
@@ -1249,7 +1250,7 @@
             "rarity": 5
         },
         {
-            "id": 155,
+            "id": "primordial_jade_cutter",
             "name": "Coupeur de jade primordial",
             "type": "sword",
             "main_stat": "crit_rate",
@@ -1257,7 +1258,7 @@
             "rarity": 5
         },
         {
-            "id": 156,
+            "id": "freedom_sworn",
             "name": "Serment de la liberté",
             "type": "sword",
             "main_stat": "em",
@@ -1265,7 +1266,7 @@
             "rarity": 5
         },
         {
-            "id": 157,
+            "id": "mistsplitter_reforged",
             "name": "Reflet de tranche-brume",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -1273,7 +1274,7 @@
             "rarity": 5
         },
         {
-            "id": 158,
+            "id": "haran_geppaku_futsu",
             "name": "Lune ondulante de Futsu",
             "type": "sword",
             "main_stat": "crit_rate",
@@ -1281,7 +1282,7 @@
             "rarity": 5
         },
         {
-            "id": 159,
+            "id": "key_of_khaj_nisut",
             "name": "Clé de Khaj-Nisut",
             "type": "sword",
             "main_stat": "pv",
@@ -1289,7 +1290,7 @@
             "rarity": 5
         },
         {
-            "id": 160,
+            "id": "light_of_foliar_incision",
             "name": "Lumière d'incision foliaire",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -1297,7 +1298,7 @@
             "rarity": 5
         },
         {
-            "id": 161,
+            "id": "splendor_of_tranquil_waters",
             "name": "Splendeur des eaux calmes",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -1305,7 +1306,7 @@
             "rarity": 5
         },
         {
-            "id": 162,
+            "id": "uraku_misugiri",
             "name": "Uraku Misugiri",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -1313,7 +1314,7 @@
             "rarity": 5
         },
         {
-            "id": 163,
+            "id": "absolution",
             "name": "Absolution",
             "type": "sword",
             "main_stat": "crit_dmg",
@@ -1321,7 +1322,7 @@
             "rarity": 5
         },
         {
-            "id": 164,
+            "id": "peak_patrol_song",
             "name": "Chanson de patrouille de sommet",
             "type": "sword",
             "main_stat": "def",
@@ -1329,7 +1330,7 @@
             "rarity": 5
         },
         {
-            "id": 165,
+            "id": "azurelight",
             "name": "Éclazur",
             "type": "sword",
             "main_stat": "crit_rate",
@@ -1337,7 +1338,7 @@
             "rarity": 5
         },
         {
-            "id": 166,
+            "id": "athame_artis",
             "name": "Athame Artis",
             "type": "sword",
             "main_stat": "crit_rate",
@@ -1345,7 +1346,7 @@
             "rarity": 5
         },
         {
-            "id": 167,
+            "id": "skyward_pride",
             "name": "Fierté de la Voûte d'Azur",
             "type": "claymore",
             "main_stat": "er",
@@ -1353,7 +1354,7 @@
             "rarity": 5
         },
         {
-            "id": 168,
+            "id": "wolf_s_gravestone",
             "name": "Mort-du-loup",
             "type": "claymore",
             "main_stat": "atk",
@@ -1361,7 +1362,7 @@
             "rarity": 5
         },
         {
-            "id": 169,
+            "id": "the_unforged",
             "name": "Lame brute",
             "type": "claymore",
             "main_stat": "atk",
@@ -1369,15 +1370,15 @@
             "rarity": 5
         },
         {
-            "id": 170,
+            "id": "song_of_the_broken_pines",
             "name": "Ode au chant du vent",
             "type": "claymore",
-            "main_stat": "physique",
+            "main_stat": "phys_dmg",
             "sources": ["wish"],
             "rarity": 5
         },
         {
-            "id": 171,
+            "id": "redhorn_stonethresher",
             "name": "Brise-pierre de corne rouge",
             "type": "claymore",
             "main_stat": "crit_dmg",
@@ -1385,7 +1386,7 @@
             "rarity": 5
         },
         {
-            "id": 172,
+            "id": "beacon_of_the_reed_sea",
             "name": "Balise de la mer de roseaux",
             "type": "claymore",
             "main_stat": "crit_rate",
@@ -1393,7 +1394,7 @@
             "rarity": 5
         },
         {
-            "id": 173,
+            "id": "verdict",
             "name": "Condamneur",
             "type": "claymore",
             "main_stat": "crit_rate",
@@ -1401,7 +1402,7 @@
             "rarity": 5
         },
         {
-            "id": 174,
+            "id": "fang_of_the_mountain_king",
             "name": "Croc du roi de la montagne",
             "type": "claymore",
             "main_stat": "crit_rate",
@@ -1409,7 +1410,7 @@
             "rarity": 5
         },
         {
-            "id": 175,
+            "id": "a_thousand_blazing_suns",
             "name": "Mille soleils brûlants",
             "type": "claymore",
             "main_stat": "crit_rate",
@@ -1417,7 +1418,7 @@
             "rarity": 5
         },
         {
-            "id": 176,
+            "id": "primordial_jade_wingde_spear",
             "name": "Lance de jade ailée",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -1425,7 +1426,7 @@
             "rarity": 5
         },
         {
-            "id": 177,
+            "id": "skyward_spine",
             "name": "Berge de la Voûte d'Azur",
             "type": "polearm",
             "main_stat": "er",
@@ -1433,7 +1434,7 @@
             "rarity": 5
         },
         {
-            "id": 178,
+            "id": "vortex_vanquisher",
             "name": "Perceur prismatique",
             "type": "polearm",
             "main_stat": "atk",
@@ -1441,7 +1442,7 @@
             "rarity": 5
         },
         {
-            "id": 179,
+            "id": "staff_of_homa",
             "name": "Bâton de Homa",
             "type": "polearm",
             "main_stat": "crit_dmg",
@@ -1449,7 +1450,7 @@
             "rarity": 5
         },
         {
-            "id": 180,
+            "id": "engulfing_lightning",
             "name": "Lumière du faucheur",
             "type": "polearm",
             "main_stat": "er",
@@ -1457,7 +1458,7 @@
             "rarity": 5
         },
         {
-            "id": 181,
+            "id": "calamity_queller",
             "name": "Étouffeur de calamités",
             "type": "polearm",
             "main_stat": "atk",
@@ -1465,7 +1466,7 @@
             "rarity": 5
         },
         {
-            "id": 182,
+            "id": "staff_of_the_scarlet_sands",
             "name": "Bâton des sables écarlates",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -1473,7 +1474,7 @@
             "rarity": 5
         },
         {
-            "id": 183,
+            "id": "crimson_moon_s_semblance",
             "name": "Semblance de la lune écarlate",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -1481,7 +1482,7 @@
             "rarity": 5
         },
         {
-            "id": 184,
+            "id": "lumidouce_elegy",
             "name": "Élégie de Lumidouce",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -1489,7 +1490,7 @@
             "rarity": 5
         },
         {
-            "id": 185,
+            "id": "syphonist_of_scents",
             "name": "Symphoniste des senteurs",
             "type": "polearm",
             "main_stat": "crit_dmg",
@@ -1497,7 +1498,7 @@
             "rarity": 5
         },
         {
-            "id": 186,
+            "id": "fractured_halo",
             "name": "Halo fracturé",
             "type": "polearm",
             "main_stat": "crit_dmg",
@@ -1505,7 +1506,7 @@
             "rarity": 5
         },
         {
-            "id": 187,
+            "id": "bloodsoaked_ruins",
             "name": "Ruines sanglantes",
             "type": "polearm",
             "main_stat": "crit_rate",
@@ -1513,7 +1514,7 @@
             "rarity": 5
         },
         {
-            "id": 188,
+            "id": "skyward_atlas",
             "name": "Atlas de la Voûte d'Azur",
             "type": "catalyst",
             "main_stat": "atk",
@@ -1521,7 +1522,7 @@
             "rarity": 5
         },
         {
-            "id": 189,
+            "id": "lost_prayer_to_the_sacred_wind",
             "name": "L'origine des Quatre Vents",
             "type": "catalyst",
             "main_stat": "crit_rate",
@@ -1529,7 +1530,7 @@
             "rarity": 5
         },
         {
-            "id": 190,
+            "id": "memory_of_dust",
             "name": "Chaînes mortelles",
             "type": "catalyst",
             "main_stat": "atk",
@@ -1537,7 +1538,7 @@
             "rarity": 5
         },
         {
-            "id": 191,
+            "id": "everlasting_moonglow",
             "name": "Lueur de la lune éternelle",
             "type": "catalyst",
             "main_stat": "pv",
@@ -1545,7 +1546,7 @@
             "rarity": 5
         },
         {
-            "id": 192,
+            "id": "kagura_s_verity",
             "name": "Vérité de Kagura",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1553,7 +1554,7 @@
             "rarity": 5
         },
         {
-            "id": 193,
+            "id": "a_thousand_floating_dreams",
             "name": "Mille rêves flottants",
             "type": "catalyst",
             "main_stat": "em",
@@ -1561,7 +1562,7 @@
             "rarity": 5
         },
         {
-            "id": 194,
+            "id": "tulaytummah_s_remembrance",
             "name": "Mémoire de Tulaytullah",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1569,7 +1570,7 @@
             "rarity": 5
         },
         {
-            "id": 195,
+            "id": "jadefall_s_splendor",
             "name": "Splendeur de l'azur",
             "type": "catalyst",
             "main_stat": "pv",
@@ -1577,7 +1578,7 @@
             "rarity": 5
         },
         {
-            "id": 196,
+            "id": "cashflow_supervision",
             "name": "Supervision de trésorerie",
             "type": "catalyst",
             "main_stat": "crit_rate",
@@ -1585,7 +1586,7 @@
             "rarity": 5
         },
         {
-            "id": 197,
+            "id": "tome_of_the_eternal_flow",
             "name": "Tome du flux éternel",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1593,7 +1594,7 @@
             "rarity": 5
         },
         {
-            "id": 198,
+            "id": "crane_s_echoing_call",
             "name": "Écho de la grue",
             "type": "catalyst",
             "main_stat": "atk",
@@ -1601,7 +1602,7 @@
             "rarity": 5
         },
         {
-            "id": 199,
+            "id": "surf_s_up",
             "name": "Instant surfant",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1609,7 +1610,7 @@
             "rarity": 5
         },
         {
-            "id": 200,
+            "id": "starcaller_s_watch",
             "name": "Veillée d'appel d'étoiles",
             "type": "catalyst",
             "main_stat": "em",
@@ -1617,7 +1618,7 @@
             "rarity": 5
         },
         {
-            "id": 201,
+            "id": "sunny_morning_sleep_in",
             "name": "Matinée flânée sous le soleil",
             "type": "catalyst",
             "main_stat": "em",
@@ -1625,7 +1626,7 @@
             "rarity": 5
         },
         {
-            "id": 202,
+            "id": "vivid_notions",
             "name": "Notions colorées",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1633,7 +1634,7 @@
             "rarity": 5
         },
         {
-            "id": 203,
+            "id": "nightweaver_s_looking_glass",
             "name": "Miroir du tisse-nuit",
             "type": "catalyst",
             "main_stat": "em",
@@ -1641,7 +1642,7 @@
             "rarity": 5
         },
         {
-            "id": 204,
+            "id": "reliquary_of_truth",
             "name": "Reliquaire de la vérité",
             "type": "catalyst",
             "main_stat": "crit_dmg",
@@ -1649,7 +1650,7 @@
             "rarity": 5
         },
         {
-            "id": 205,
+            "id": "skyward_harp",
             "name": "Ailes de la Voûte d'Azur",
             "type": "bow",
             "main_stat": "crit_rate",
@@ -1657,7 +1658,7 @@
             "rarity": 5
         },
         {
-            "id": 206,
+            "id": "amos_s_bow",
             "name": "Arc d'Amos",
             "type": "bow",
             "main_stat": "atk",
@@ -1665,7 +1666,7 @@
             "rarity": 5
         },
         {
-            "id": 207,
+            "id": "elegy_for_the_end",
             "name": "Ultime soupir",
             "type": "bow",
             "main_stat": "er",
@@ -1673,7 +1674,7 @@
             "rarity": 5
         },
         {
-            "id": 208,
+            "id": "thundering_pulse",
             "name": "Pulsation du tonnerre",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -1681,7 +1682,7 @@
             "rarity": 5
         },
         {
-            "id": 209,
+            "id": "polar_star",
             "name": "Étoile polaire",
             "type": "bow",
             "main_stat": "crit_rate",
@@ -1689,7 +1690,7 @@
             "rarity": 5
         },
         {
-            "id": 210,
+            "id": "aqua_simulacra",
             "name": "Simulacre d'eau",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -1697,7 +1698,7 @@
             "rarity": 5
         },
         {
-            "id": 211,
+            "id": "hunter_s_path",
             "name": "La voie du chasseur",
             "type": "bow",
             "main_stat": "crit_rate",
@@ -1705,7 +1706,7 @@
             "rarity": 5
         },
         {
-            "id": 212,
+            "id": "the_first_great_magic",
             "name": "La première grande magie",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -1713,7 +1714,7 @@
             "rarity": 5
         },
         {
-            "id": 213,
+            "id": "silvershower_heartstrings",
             "name": "Corde de pluie blanche",
             "type": "bow",
             "main_stat": "pv",
@@ -1721,7 +1722,7 @@
             "rarity": 5
         },
         {
-            "id": 214,
+            "id": "astral_vulture_s_crimson_plumage",
             "name": "Plumage cramoisi du vautour astral",
             "type": "bow",
             "main_stat": "crit_dmg",
@@ -1729,7 +1730,7 @@
             "rarity": 5
         },
         {
-            "id": 215,
+            "id": "the_daybreak_chronicles",
             "name": "Les chroniques de l'aube",
             "type": "bow",
             "main_stat": "crit_dmg",
