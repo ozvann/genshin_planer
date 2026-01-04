@@ -5,4 +5,8 @@ public class Character {
     String weapon;
     String affiliation;
     int rarity;
+
+    public String toString(){
+        return this.id + " || " + this.name + " || " + this.weapon + " || " + this.element[0] + " ||" + " (" + this.rarity + "*) || " + this.affiliation;
+    }
 }

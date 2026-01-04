@@ -1,16 +1,22 @@
-public class FiltreWeapon {
-    public String id;
-    public String name;
-    public String type;
-    public String main_stat;
-    public String[] sources;
-    public int rarity;
+import java.util.ArrayList;
+import java.util.List;
 
-    public void getTaille(){
-        return ;
+public class FiltreWeapon {
+    private List<Weapon> weaponList = new ArrayList<>();
+    
+    public int getTaille(){
+        return weaponList.size();
     }
 
-    public void addWeapon() {
-        return;
+    public void add(Weapon w) {
+        weaponList.add(w);
+    }
+
+    public void vider(){
+        weaponList.clear();
+    }
+
+    public List<Weapon> result(){
+        return weaponList;
     }
 }

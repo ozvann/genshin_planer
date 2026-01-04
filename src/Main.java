@@ -10,7 +10,7 @@ import com.google.gson.Gson;
 
 public class Main {
     public static void main(String[] args) {
-        String filtre = "mondstadt", filtre2 = "sword";
+        String filtre = "mondstadt", filtre1 = "otherworld", filtre2 = "sword", filtre3 = "pyro", filtre4 = "claymore";
         Reader reader = null;
 
         FiltreCharacter tabfiltre = new FiltreCharacter();
@@ -22,20 +22,20 @@ public class Main {
         }
 
         Gson gson = new Gson();             // Initialisation du parsage avec Gson
-        System.out.println("Gson OK");
 
         GenshinData data = gson.fromJson(reader, GenshinData.class);        // Convertion json vers une classe java
 
-        System.out.println("Version: " + data.version);             // Test simple d'affichage
+        System.out.println("Version: " + data.version);
+        
         for (Character c : data.characters) {
-            if (filtre.equals(c.affiliation) && filtre2.equals(c.weapon) && c.rarity == 5) {
-                tabfiltre.add(c);
-                System.out.println(c.id + " || " + c.name + " || " + c.weapon + " || " + c.element[0] + " ||" + " (" + c.rarity + "*) || " + c.affiliation);
+            if ((filtre.equals(c.affiliation) || filtre1.equals(c.affiliation)) && (filtre2.equals(c.weapon) || filtre4.equals(c.weapon)) && c.rarity == 5) {
+                for (String e : c.element){
+                    if (filtre3.equals(e)){
+                        tabfiltre.add(c);
+                    }
+                }
             }
         }
-
-        for (Character c : data.characters) {
-            System.out.println(c.id + " || " + c.name + " || " + c.weapon + " || " + c.element[0] + " ||" + " (" + c.rarity + "*) || " + c.affiliation);
-        }
-	}
+        System.out.println(tabfiltre.result());
+    }
 }
