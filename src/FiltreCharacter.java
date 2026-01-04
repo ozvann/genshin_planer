@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FiltreCharacter {
-    List charaList = new ArrayList(1);
+    private List<Character> charaList = new ArrayList<>();
 
     public int getTaille(){
         return charaList.size();
@@ -16,7 +16,7 @@ public class FiltreCharacter {
         charaList.clear();
     }
 
-    public ArrayList result(){
-        return (ArrayList) charaList;
+    public List<Character> result(){
+        return charaList;
     }
 }
