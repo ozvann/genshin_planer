@@ -13,7 +13,6 @@ import com.google.gson.Gson;
 
 public class Main {
     public static void main(String[] args) {
-        String filtre = "mondstadt", filtre1 = "otherworld", filtre2 = "sword", filtre3 = "pyro", filtre4 = "claymore";
         Reader reader = null;
 
         FiltreCharacter tabfiltre = new FiltreCharacter();
@@ -30,18 +29,33 @@ public class Main {
 
         System.out.println("Version: " + data.version);
         
-        // for (Character c : data.characters) {
-        //     if ((filtre.equals(c.affiliation) || filtre1.equals(c.affiliation)) && (filtre2.equals(c.weapon) || filtre4.equals(c.weapon)) && c.rarity == 5) {
-        //         for (String e : c.element){             // Boucle permettant d'enregistrer toutes les entrées des éléments d'un personnage
-        //             if (filtre3.equals(e)){
-        //                 tabfiltre.add(c);
-        //                 break;
-        //             }
-        //         }
-        //     }
-        // }
+        GestionFiltre persook = new GestionFiltre();
 
-        GestionFiltre persook = new GestionFiltre(affiliations, armes, elements, rarete);
+        persook.AddAffiliation("mondstadt");
+        persook.AddAffiliation("otherworld");
+        persook.AddArmes("sword");
+        persook.AddElement("pyro");
+        persook.AddArmes("claymore");
+
+        for (Character c : data.characters) {
+            if (persook.PersoOK(c) == true){
+                tabfiltre.add(c);
+            }
+        }
+
+        persook.removeAffiliation("otherworld");
+
+        for (Character c : data.characters) {
+            if (persook.PersoOK(c) == true){
+                tabfiltre.add(c);
+            }
+        }
+
+        persook.Vider();
+        persook.AddRarete(5);
+        persook.AddArmes("sword");
+        persook.AddElement("anemo");
+        persook.AddAffiliation("mondstadt");
 
         for (Character c : data.characters) {
             if (persook.PersoOK(c) == true){
