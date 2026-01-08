@@ -12,6 +12,10 @@ public class FiltreCharacter {
         charaList.add(c);
     }
 
+    public void remove(Character c) {
+        charaList.remove(c);
+    }
+
     public void vider(){
         charaList.clear();
     }
