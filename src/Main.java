@@ -30,13 +30,22 @@ public class Main {
 
         System.out.println("Version: " + data.version);
         
+        // for (Character c : data.characters) {
+        //     if ((filtre.equals(c.affiliation) || filtre1.equals(c.affiliation)) && (filtre2.equals(c.weapon) || filtre4.equals(c.weapon)) && c.rarity == 5) {
+        //         for (String e : c.element){             // Boucle permettant d'enregistrer toutes les entrées des éléments d'un personnage
+        //             if (filtre3.equals(e)){
+        //                 tabfiltre.add(c);
+        //                 break;
+        //             }
+        //         }
+        //     }
+        // }
+
+        GestionFiltre persook = new GestionFiltre(affiliations, armes, elements, rarete);
+
         for (Character c : data.characters) {
-            if ((filtre.equals(c.affiliation) || filtre1.equals(c.affiliation)) && (filtre2.equals(c.weapon) || filtre4.equals(c.weapon)) && c.rarity == 5) {
-                for (String e : c.element){
-                    if (filtre3.equals(e)){
-                        tabfiltre.add(c);
-                    }
-                }
+            if (persook.PersoOK(c) == true){
+                tabfiltre.add(c);
             }
         }
         System.out.println(tabfiltre.result());
