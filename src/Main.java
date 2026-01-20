@@ -4,9 +4,7 @@ import java.io.Reader;
 import com.google.gson.Gson;
 
 
-// Both Pour complier (a la racine du projet) : javac -cp "./lib/gson-2.13.1.jar" src/*.java
-
-// Window Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar;src" Main
+// Linux Pour complier (a la racine du projet) : javac -cp "./lib/gson-2.13.1.jar" src/*.java
 
 // Linux Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar:src" Main
 
@@ -17,7 +15,7 @@ public class Main {
 
         FiltreCharacter tabfiltre = new FiltreCharacter();
 
-        try { // Lecture du fichier json (obligation du try catch)
+        try { // Lecture du fichier json
             reader = new FileReader("./json/Character.json");
         } catch (FileNotFoundException e) {
             System.err.println("Erreur : Le fichier Character.json est introuvable. Vérifie le chemin : " + e.getMessage());
