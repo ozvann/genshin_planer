@@ -1,0 +1,34 @@
+Empêcher les doublons dans les filtres (contains avant add)
+
+Ajouter removeAffiliation, removeWeapon, etc.
+
+Ajouter une méthode isEmpty() (aucun filtre actif ?)
+
+
+Menu principal :
+	afficher personnages
+	filtrer
+	reset filtres
+	quitter
+
+
+Menu filtres :
+	ajouter affiliation
+	ajouter élément
+	ajouter arme
+	ajouter rareté
+
+Afficher les filtres actifs
+Afficher les résultats filtrés
+
+
+
+Documentation (README final)
+	Expliquer le projet
+	Expliquer la structure JSON
+	Documenter toutes les valeurs possibles
+	Expliquer comment lancer l’application
+	Expliquer les filtres disponibles
+
+
+
