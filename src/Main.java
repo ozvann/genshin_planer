@@ -4,11 +4,9 @@ import java.io.Reader;
 import com.google.gson.Gson;
 
 
-// Both Pour complier (a la racine du projet) : javac -cp "./lib/gson-2.13.1.jar" src/*.java
+// Pour complier (a la racine du projet) : javac -cp "./lib/gson-2.13.1.jar" src/*.java
 
-// Window Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar;src" Main
-
-// Linux Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar:src" Main
+// Pour executer (a la racine du projet) : java -cp "./lib/gson-2.13.1.jar:src" Main
 
 
 public class Main {
