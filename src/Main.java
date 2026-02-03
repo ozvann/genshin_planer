@@ -58,11 +58,11 @@ public class Main {
 		persook.AddElement("anemo");
 		persook.AddAffiliation("mondstadt");
 
-        for (Character c : data.characters) {
-            if (persook.PersoOK(c) == true){
-                tabfiltre.add(c);
-            }
-        }
-        System.out.println(tabfiltre.result());
-    }
+		for (Character c : data.characters) {
+			if (persook.PersoOK(c) == true){
+				tabfiltre.add(c);
+			}
+		}
+		System.out.println(tabfiltre.result());
+	}
 }
